@@ -4,7 +4,7 @@ This project demonstrates a Conditional Generative Adversarial Network (CGAN) tr
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the app](https://your-streamlit-app-link)  
+👉 [Click here to try the app][(https://your-streamlit-app-link](https://prob3app-zvvo9edmphlbrzptw5bc69.streamlit.app/)  
 Generate MNIST-style handwritten digits just by selecting a number!
 
 ---
